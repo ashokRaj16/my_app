@@ -1,0 +1,8 @@
+{
+  "name": "newcad",
+  "app_id": "42ac6e27",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
